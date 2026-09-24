@@ -1,1 +1,1 @@
-just Basic learning related to RAG
+just Basic learning related
