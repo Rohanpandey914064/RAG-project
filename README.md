@@ -1,1 +1,1 @@
-just Basic learning related
+just Basic learning
